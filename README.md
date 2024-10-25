@@ -1,10 +1,8 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif">
  <img alt="A GIF" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif">
 </picture>
 
-### - 🌱 I’m currently learning to design unofficial API modules using web scraping.
+### - 🌱 I’m currently learning DSA & Web Scraping.
 <!--
 **NameIsNotAvailble/NameIsNotAvailble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
